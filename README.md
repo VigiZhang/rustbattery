@@ -28,7 +28,7 @@
 
 CSV相关：csv
 
-序列化：serde | serde_json | fnv
+序列化：serde | serde_json | fnv | bincode
 
 结构化数据：toml | byteorder
 
