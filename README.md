@@ -32,7 +32,7 @@ CSV相关：csv
 
 结构化数据：toml | byteorder
 
-错误处理：error-chain
+错误处理：[error-chain](https://crates.io/crates/error-chain)
 
 文件系统：std::fs | same_file | memmap | tempdir
 
