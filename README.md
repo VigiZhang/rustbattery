@@ -22,7 +22,7 @@
 
 日志：log | env_logger | log4rs
 
-版本：semver
+版本：[semver](https://crates.io/crates/semver)
 
 编译工具链：cc | libc
 
