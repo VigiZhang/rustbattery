@@ -6,7 +6,7 @@
 
 压缩打包：flate2 | tar
 
-全局初始化：lazy_static
+全局初始化：[lazy\_static](https://crates.io/crates/lazy_static)
 
 多线程：crossbeam | threadpool
 
@@ -28,7 +28,7 @@
 
 CSV相关：csv
 
-序列化：serde | serde_json | fnv | bincode
+序列化：serde | serde_json | fnv | [bincode](https://crates.io/crates/bincode)
 
 结构化数据：toml | byteorder
 
