@@ -4,6 +4,8 @@
 
 命令行：clap | ansi_term
 
+进程处理：[std::process](https://doc.rust-lang.org/std/process/index.html)
+
 压缩打包：flate2 | tar
 
 全局初始化：[lazy\_static](https://crates.io/crates/lazy_static)
