@@ -16,7 +16,7 @@
 
 加解密：ring | data-encoding | base64 | encoding_rs
 
-位操作：bitflags
+位操作：[bitflags](https://crates.io/crates/bitflags)
 
 数据库：rusqlite | postgres
 
