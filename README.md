@@ -30,7 +30,7 @@
 
 CSV相关：csv
 
-序列化：serde | serde_json | fnv | [bincode](https://crates.io/crates/bincode)
+序列化：[serde](https://crates.io/crates/serde) | [serde\_json](https://crates.io/crates/serde_json) | fnv | [bincode](https://crates.io/crates/bincode)
 
 结构化数据：toml | byteorder
 
