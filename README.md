@@ -2,7 +2,7 @@
 
 随机数生成：rand
 
-命令行：clap | ansi_term
+命令行：[clap](https://crates.io/crates/clap) | ansi_term
 
 进程处理：[std::process](https://doc.rust-lang.org/std/process/index.html)
 
