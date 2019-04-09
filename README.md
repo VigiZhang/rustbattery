@@ -26,7 +26,7 @@
 
 版本：[semver](https://crates.io/crates/semver)
 
-编译工具链：cc | libc
+编译工具链：cc | [libc](https://crates.io/crates/libc)
 
 CSV相关：csv
 
